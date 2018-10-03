@@ -11,4 +11,5 @@ Setup instructions:
 
 Note: You may need to restart iTerm for the color theme to take efect.
 
-[Setup Instructions](https://github.com/tmjoseantonio/hacktoberfest-iterm-colors/blob/master/iTerm-theme-install.gif?raw=true)
+![Preview](https://github.com/tmjoseantonio/hacktoberfest-iterm-colors/blob/master/iTerm-theme-install.gif)
+
